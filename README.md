@@ -7,7 +7,7 @@ Godot, C#
 английский
 
 # Жанры:
-2d platformer, вид сбоку
+2d pixel platformer, вид сбоку
 
 # Настроение:
 фентезийное приключение(high fantasy),динамичное
