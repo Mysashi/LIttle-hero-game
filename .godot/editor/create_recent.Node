@@ -1,0 +1,14 @@
+PathFollow2D
+Path2D
+Node2D
+CharacterBody2D
+TextureRect
+Control
+AnimationPlayer
+CollisionShape2D
+Area2D
+AudioStreamPlayer2D
+TileMap
+TextEdit
+RayCast2D
+AudioStreamPlayer

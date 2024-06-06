@@ -1,0 +1,16 @@
+[gd_scene load_steps=3 format=3 uid="uid://cu20fj3osb4mu"]
+
+[ext_resource type="Script" path="res://Scripts/view/GameView.cs" id="1_jbpqk"]
+[ext_resource type="Texture2D" uid="uid://hs5fh5scpych" path="res://Assets/backgrounds/perekhod_1.png" id="2_vj3su"]
+
+[node name="Transition01" type="Control"]
+layout_mode = 3
+anchors_preset = 0
+script = ExtResource("1_jbpqk")
+
+[node name="TextureRect" type="TextureRect" parent="."]
+texture_filter = 1
+layout_mode = 0
+offset_right = 1155.0
+offset_bottom = 654.0
+texture = ExtResource("2_vj3su")

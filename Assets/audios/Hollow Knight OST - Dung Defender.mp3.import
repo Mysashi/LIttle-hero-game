@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://b86k3fn58h6sq"
+path="res://.godot/imported/Hollow Knight OST - Dung Defender.mp3-251dc051976b36bcdc6fde3d68c14acb.mp3str"
+
+[deps]
+
+source_file="res://Assets/audios/Hollow Knight OST - Dung Defender.mp3"
+dest_files=["res://.godot/imported/Hollow Knight OST - Dung Defender.mp3-251dc051976b36bcdc6fde3d68c14acb.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

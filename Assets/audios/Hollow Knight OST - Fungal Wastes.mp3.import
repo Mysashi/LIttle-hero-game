@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://cyh0x2h11irb5"
+path="res://.godot/imported/Hollow Knight OST - Fungal Wastes.mp3-f47b9e1d96ea0bbe07691be4a02ffce3.mp3str"
+
+[deps]
+
+source_file="res://Assets/audios/Hollow Knight OST - Fungal Wastes.mp3"
+dest_files=["res://.godot/imported/Hollow Knight OST - Fungal Wastes.mp3-f47b9e1d96ea0bbe07691be4a02ffce3.mp3str"]
+
+[params]
+
+loop=true
+loop_offset=0.0
+bpm=0.0
+beat_count=0
+bar_beats=4

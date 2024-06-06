@@ -1,0 +1,51 @@
+[gd_scene load_steps=6 format=3 uid="uid://bvdvb20bbxew2"]
+
+[ext_resource type="Script" path="res://Scripts/view/GameView.cs" id="1_kmcen"]
+[ext_resource type="Texture2D" uid="uid://cevuw1dukcdut" path="res://Assets/backgrounds/EmMR6oHsH9I.jpg" id="2_aqvh3"]
+[ext_resource type="Texture2D" uid="uid://bafihyjsnh43j" path="res://Assets/backgrounds/ekran_2.png" id="3_ep6j1"]
+
+[sub_resource type="Animation" id="Animation_svoeh"]
+resource_name = "cutScene"
+length = 5.0
+tracks/0/type = "value"
+tracks/0/imported = false
+tracks/0/enabled = true
+tracks/0/path = NodePath("TextureRect:texture")
+tracks/0/interp = 1
+tracks/0/loop_wrap = true
+tracks/0/keys = {
+"times": PackedFloat32Array(0, 1.8),
+"transitions": PackedFloat32Array(1, 1),
+"update": 1,
+"values": [ExtResource("3_ep6j1"), ExtResource("2_aqvh3")]
+}
+
+[sub_resource type="AnimationLibrary" id="AnimationLibrary_bts7w"]
+_data = {
+"cutScene": SubResource("Animation_svoeh")
+}
+
+[node name="CutseneMain" type="Control"]
+layout_mode = 3
+anchors_preset = 15
+anchor_right = 1.0
+anchor_bottom = 1.0
+grow_horizontal = 2
+grow_vertical = 2
+script = ExtResource("1_kmcen")
+
+[node name="TextureRect" type="TextureRect" parent="."]
+texture_filter = 1
+layout_mode = 0
+offset_right = 1149.0
+offset_bottom = 651.0
+texture = ExtResource("2_aqvh3")
+expand_mode = 1
+
+[node name="AnimationPlayer" type="AnimationPlayer" parent="."]
+libraries = {
+"": SubResource("AnimationLibrary_bts7w")
+}
+autoplay = "cutScene"
+
+[connection signal="animation_finished" from="AnimationPlayer" to="." method="onAnimationFinished"]

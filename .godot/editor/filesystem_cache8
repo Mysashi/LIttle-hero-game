@@ -1,0 +1,113 @@
+ea4bc82a6ad023ab7ee23ee620429895
+::res://::1717668585
+blinker.tscn::PackedScene::1274023730957189796::1717063856::0::1::::<><>::
+blocker.tscn::PackedScene::8432254122102761709::1717611188::0::1::::<><>::
+bumper.tscn::PackedScene::2852213307394149332::1717666449::0::1::::<><>::
+cutscene_02.tscn::PackedScene::44697422454820068::1717668512::0::1::::<><>::res://Scripts/view/GameView.cs<>uid://c0hixf72wpcqc::::res://Assets/backgrounds/ekran_1.png
+cutsene_main.tscn::PackedScene::1218780913264129943::1717668466::0::1::::<><>::res://Scripts/view/GameView.cs<>uid://bafihyjsnh43j::::res://Assets/backgrounds/ekran_2.png<>uid://cevuw1dukcdut::::res://Assets/backgrounds/EmMR6oHsH9I.jpg
+Level02.tscn::PackedScene::6658608014011490784::1717668582::0::1::::<><>::res://Scripts/model/Game.cs<>uid://byg4ou3s0843i::::res://Assets/tiles/oak_woods_tileset.png<>uid://ctlsarimx0r38::::res://Assets/backgrounds/Summer3.png<>uid://cgs863jrt5e8q::::res://Assets/tiles/TX Village Props.png<>uid://dx7l0jd656w4j::::res://Assets/tiles/Free  Village Game Assets.png<>uid://clgfqena1ps23::::res://player_02.tscn<>uid://cx1bh2srvty1w::::res://Assets/tiles/TX Tileset Ground.png<>uid://cjxmsgyudwjiv::::res://slime.tscn<>uid://46pxhtqnir71::::res://teleporter.tscn<>uid://cq80j2cyjv4w0::::res://Assets/bat.tscn<>uid://dqmkh80vld0tn::::res://Assets/spikes-1.tscn<>uid://bqipjffuiiv7v::::res://Assets/tiles/Tiles.png<>uid://c5lulfqci1cpi::::res://Assets/backgrounds/Summer4.png<>uid://bg4sid00q2i28::::res://single_spike.tscn<>uid://bgvvsie80kwdw::::res://bumper.tscn<>uid://dl7r35m6s2xa3::::res://Assets/audios/Hollow Knight OST - Reflection.mp3<>uid://dsev81nrki76p::::res://blocker.tscn
+level04.tscn::PackedScene::2509601126962046440::1717668160::0::1::::<><>::res://Scripts/model/Game.cs<>uid://bg4sid00q2i28::::res://single_spike.tscn<>uid://bd2l22rrj5lix::::res://Assets/tiles/tile_castle.png<>uid://clgfqena1ps23::::res://player_02.tscn<>uid://ckr6o432ayccg::::res://minotaur.tscn<>uid://dbc3rlluk0vi0::::res://woodCutter.tscn<>uid://cjxmsgyudwjiv::::res://slime.tscn<>uid://cq80j2cyjv4w0::::res://Assets/bat.tscn<>uid://bgvvsie80kwdw::::res://bumper.tscn<>uid://dqmkh80vld0tn::::res://Assets/spikes-1.tscn<>uid://b86k3fn58h6sq::::res://Assets/audios/Hollow Knight OST - Dung Defender.mp3<>uid://46pxhtqnir71::::res://teleporter.tscn
+level_03.tscn::PackedScene::2139678083167532155::1717668161::0::1::::<><>::res://Scripts/model/Game.cs<>uid://bgvvsie80kwdw::::res://bumper.tscn<>uid://bd2l22rrj5lix::::res://Assets/tiles/tile_castle.png<>uid://q74meoug7p8w::::res://Assets/backgrounds/Background.png<>uid://dsev81nrki76p::::res://blocker.tscn<>uid://cx1bh2srvty1w::::res://Assets/tiles/TX Tileset Ground.png<>uid://clgfqena1ps23::::res://player_02.tscn<>uid://byg4ou3s0843i::::res://Assets/tiles/oak_woods_tileset.png<>uid://bqipjffuiiv7v::::res://Assets/tiles/Tiles.png<>uid://dbc3rlluk0vi0::::res://woodCutter.tscn<>uid://cq80j2cyjv4w0::::res://Assets/bat.tscn<>uid://cjxmsgyudwjiv::::res://slime.tscn<>uid://bg4sid00q2i28::::res://single_spike.tscn<>uid://46pxhtqnir71::::res://teleporter.tscn<>uid://cyh0x2h11irb5::::res://Assets/audios/Hollow Knight OST - Fungal Wastes.mp3<>uid://dqmkh80vld0tn::::res://Assets/spikes-1.tscn
+main_menu.tscn::PackedScene::1074540775613926102::1717630199::0::1::::<><>::res://Scripts/view/GameView.cs<>uid://t1jjfqvnuaw6::::res://Assets/16rwv0trlql51.webp<>uid://yd734va31dou::::res://Assets/audio-editor-output.mp3
+mana.tscn::PackedScene::7372147887728485121::1717327957::0::1::::<><>::res://Scripts/model/Collectible.cs<>uid://bxmub5eh5ktx5::::res://Assets/radar1_.png
+minotaur.tscn::PackedScene::5511733021135351026::1717611188::0::1::::<><>::res://Scripts/controller/MinotaurController.cs<>uid://beyr25e4yxeex::::res://Assets/Minotaur - Sprite Sheet.png
+node_2d.tscn::PackedScene::1059582998004271724::1717326930::0::1::::<><>::uid://bqipjffuiiv7v::::res://Assets/Tiles.png
+player_02.tscn::PackedScene::5557637301806441682::1717668161::0::1::::<><>::uid://bou4j0t7fcl46::::res://Assets/animations/idle_lenta.png<>res://Scripts/model/PlayerModel.cs<>res://Scripts/controller/PlayerController.cs<>uid://c6jweg6cauar::::res://Assets/animations/jump_lenta.png<>uid://b5wxjmdqwuds3::::res://Assets/animations/atkaka_2_lenta.png<>uid://bfmrgadcmjrq3::::res://Assets/animations/run_lenta.png<>uid://cauncue4drjpe::::res://Assets/animations/ataka_1_lenta.png<>uid://bp010ncxrbn4b::::res://audio/running_grass.ogg<>res://Scripts/view/PlayerView.cs<>res://player_02.gdshader
+single_spike.tscn::PackedScene::2868528089958563599::1717327956::0::1::::<><>::res://Scripts/model/Obstacles.cs<>uid://dfr0p7kwutybc::::res://Assets/Individual Spike.png
+slime.gd::GDScript::-1::1717668447::0::1::::<>CharacterBody2D<>::
+slime.tscn::PackedScene::5452782749804353833::1717611186::0::1::::<><>::res://Scripts/controller/SlimeController.cs<>uid://dar6y2fm0n5wm::::res://Assets/red-slime-spritesheet.png
+teleporter.tscn::PackedScene::2100424401789511022::1717630197::0::1::::<><>::
+transition_01.tscn::PackedScene::8867335278584403965::1717630197::0::1::::<><>::uid://hs5fh5scpych::::res://Assets/perekhod_1.png<>res://Scripts/view/GameView.cs
+transition_02.tscn::PackedScene::712098281185172214::1717630197::0::1::::<><>::res://Scripts/view/GameView.cs<>uid://c3171fke4vux8::::res://Assets/perekhod_2.png
+woodCutter.tscn::PackedScene::7235310680192078501::1717668151::0::1::::<><>::uid://b57f4e3edtv23::::res://Assets/animations/Woodcutter_idle.png<>res://Scripts/controller/woodCutterController.cs<>uid://cbd8x4v4k78q3::::res://Assets/animations/Woodcutter_attack1.png<>uid://dmve4lf78c42s::::res://Assets/animations/Woodcutter_attack2.png<>uid://cpovj5d2fv7hn::::res://Assets/animations/Woodcutter_attack3.png<>uid://briigr558tnkd::::res://Assets/animations/Woodcutter_death.png<>uid://dn25dw41riyix::::res://Assets/animations/Woodcutter_hurt.png<>uid://wfonx8ksrhyc::::res://Assets/animations/Woodcutter_walk.png
+WoodCutterController.gd::GDScript::-1::1717668447::0::1::::<>CharacterBody2D<>::
+::res://Assets/::1717668582
+bat.tscn::PackedScene::5965522750766398129::1717611186::0::1::::<><>::uid://bjcriasby53a1::::res://Assets/bat/Standard/BatStandard_Attack.png<>res://Scripts/controller/BatController.cs<>uid://rs6cqcasdlnt::::res://Assets/bat/Standard/BatStandard_Death.png<>uid://b8rt48w26wbsv::::res://Assets/bat/Standard/BatStandard_Flying.png<>uid://bfofxode2yfbd::::res://Assets/bat/Standard/BatStandard_Hurt.png
+spikes-1.tscn::PackedScene::8307677525681193759::1716905733::0::1::::<><>::res://Scripts/model/Obstacles.cs<>uid://ioxeml0q38l8::::res://Assets/4 Conjoined Spikes.png
+::res://Assets/animations/::1717667126
+ataka_1_lenta.png::CompressedTexture2D::4814922872929707390::1717003253::1717665406::1::::<><>::
+ataka_2.png::CompressedTexture2D::6329592148605341129::1717329773::1717665406::1::::<><>::
+atkaka_2_lenta.png::CompressedTexture2D::4538915502073931724::1717002444::1717665406::1::::<><>::
+GG-export.png::CompressedTexture2D::2576735362171694886::1715799264::1717665406::1::::<><>::
+idle_lenta.png::CompressedTexture2D::3412130258537866565::1715843131::1717665406::1::::<><>::
+jump_lenta.png::CompressedTexture2D::204959358826144737::1715844712::1717665406::1::::<><>::
+Minotaur - Sprite Sheet.png::CompressedTexture2D::2717803112885457415::1716462762::1717665407::1::::<><>::
+red-slime-spritesheet.png::CompressedTexture2D::7196282985161453096::1716463185::1717665406::1::::<><>::
+run_lenta.png::CompressedTexture2D::2763180343314133640::1715843948::1717665406::1::::<><>::
+wizard idle.png::CompressedTexture2D::4683178276458398765::1716461931::1717666916::1::::<><>::
+Woodcutter_attack1.png::CompressedTexture2D::4851269635257853760::1717260044::1717666888::1::::<><>::
+Woodcutter_attack2.png::CompressedTexture2D::8045175350544274300::1717260112::1717666888::1::::<><>::
+Woodcutter_attack3.png::CompressedTexture2D::5855868021075982867::1717260198::1717666888::1::::<><>::
+Woodcutter_death.png::CompressedTexture2D::3596643438926699763::1717279641::1717666888::1::::<><>::
+Woodcutter_hurt.png::CompressedTexture2D::8129283286415459159::1717279658::1717666888::1::::<><>::
+Woodcutter_idle.png::CompressedTexture2D::4558501707485506638::1717260297::1717666888::1::::<><>::
+Woodcutter_push.png::CompressedTexture2D::6103901020161804975::1717260319::1717666888::1::::<><>::
+Woodcutter_walk.png::CompressedTexture2D::1555350961521189878::1717260438::1717666888::1::::<><>::
+::res://Assets/audios/::1717668480
+audio-editor-output.mp3::AudioStreamMP3::1692719882229310668::1717410320::1717665405::1::::<><>::
+default_bus_layout.tres::AudioBusLayout::4305335011911838648::1717667691::0::1::::<><>::
+Hollow Knight OST - Dung Defender.mp3::AudioStreamMP3::4767305690387706040::1717667604::1717667617::1::::<><>::
+Hollow Knight OST - Enter Hallownest.mp3::AudioStreamMP3::5985517729900276800::1717410485::1717665405::1::::<><>::
+Hollow Knight OST - Fungal Wastes.mp3::AudioStreamMP3::6473384687216856676::1717610065::1717667421::1::::<><>::
+Hollow Knight OST - Reflection.mp3::AudioStreamMP3::7998483206005736528::1717608779::1717665405::1::::<><>::
+::res://Assets/backgrounds/::1717668500
+16rwv0trlql51.webp::CompressedTexture2D::1387824664114136219::1717407960::1717665407::1::::<><>::
+Background.png::CompressedTexture2D::1190864041294182292::1717512485::1717665407::1::::<><>::
+ekran_1.png::CompressedTexture2D::6542540225124614754::1717664738::1717668500::1::::<><>::
+ekran_2.png::CompressedTexture2D::2397242084262028733::1717627252::1717665405::1::::<><>::
+EmMR6oHsH9I.jpg::CompressedTexture2D::5098203673258495543::1717625540::1717665406::1::::<><>::
+F5Efryx73qM.jpg::CompressedTexture2D::641223556300203917::1717627303::1717665406::1::::<><>::
+perekhod_1.png::CompressedTexture2D::530311558620532227::1717627550::1717665405::1::::<><>::
+perekhod_2.png::CompressedTexture2D::6793792463552856823::1717627623::1717665405::1::::<><>::
+Summer2.png::CompressedTexture2D::5953867743880279713::1717507007::1717665405::1::::<><>::
+Summer3.png::CompressedTexture2D::6130231363505623125::1717506884::1717665405::1::::<><>::
+Summer4.png::CompressedTexture2D::6902449102846321950::1717506958::1717665405::1::::<><>::
+::res://Assets/bat/::1717665173
+::res://Assets/bat/Standard/::1716907268
+BatStandard_Attack.png::CompressedTexture2D::3023295535056979610::1716907268::1716907268::1::::<><>::
+BatStandard_Death.png::CompressedTexture2D::1232255783270592945::1716907268::1716907268::1::::<><>::
+BatStandard_Flying.png::CompressedTexture2D::4738954124978291965::1716907268::1716907268::1::::<><>::
+BatStandard_Hurt.png::CompressedTexture2D::2766611588843831913::1716907268::1716907268::1::::<><>::
+BatStandard_Sheet.png::CompressedTexture2D::2247001281523818398::1716907268::1716907268::1::::<><>::
+BatStandard_Sleeping.png::CompressedTexture2D::6883493079689326768::1716907268::1716907268::1::::<><>::
+::res://Assets/hud/::1717665406
+greenbar (1).png::CompressedTexture2D::6800877692623586822::1715858918::1717665405::1::::<><>::
+redblue (1).png::CompressedTexture2D::8143188102401941870::1715858968::1717665405::1::::<><>::
+ThemeLives.tres::Theme::7085151564207223191::1716453594::0::1::::<><>::
+::res://Assets/obstacles/::1717665406
+4 Conjoined Spikes.png::CompressedTexture2D::591816320101800539::1715937903::1717665405::1::::<><>::
+Individual Spike.png::CompressedTexture2D::7546847100038545692::1716460571::1717665406::1::::<><>::
+::res://Assets/tiles/::1717668582
+Free  Village Game Assets.png::CompressedTexture2D::8840378553446411955::1717507878::1717666918::1::::<><>::
+oak_woods_tileset.png::CompressedTexture2D::4085126086009237004::1715794012::1717666916::1::::<><>::
+Tiles.png::CompressedTexture2D::3526884302231250217::1715849995::1717666917::1::::<><>::
+tile_castle.png::CompressedTexture2D::2653442962500425779::1717329121::1717666916::1::::<><>::
+tile_castle_grey.png::CompressedTexture2D::1548598462834559355::1717329239::1717666916::1::::<><>::
+TX Tileset Ground.png::CompressedTexture2D::6440933256954775922::1717506633::1717666917::1::::<><>::
+TX Village Props.png::CompressedTexture2D::5233193734515838722::1717506649::1717668586::1::::<><>::
+::res://audio/::1716458644
+running_grass.ogg::AudioStreamOggVorbis::3492486755735580167::1715854210::1715854886::1::::<><>::
+::res://Scenes/::1717668447
+PlayerView.gd::GDScript::-1::1717668447::0::1::::<>CanvasLayer<>::
+player_02.tscn::PackedScene::4945314625163897422::1717666447::0::1::::<><>::res://Scripts/model/PlayerModel.cs<>res://Scripts/controller/PlayerController.cs<>uid://cwgdptmgm6tlp::::res://Assets/animations/ataka_2.png<>uid://cauncue4drjpe::::res://Assets/animations/ataka_1_lenta.png<>uid://bou4j0t7fcl46::::res://Assets/animations/idle_lenta.png<>uid://c6jweg6cauar::::res://Assets/animations/jump_lenta.png<>uid://bfmrgadcmjrq3::::res://Assets/animations/run_lenta.png<>res://Scripts/view/PlayerView.cs<>res://player_02.gdshader<>uid://bp010ncxrbn4b::::res://audio/running_grass.ogg
+woodCutter.tscn::PackedScene::8683750409599471446::1717666447::0::1::::<><>::res://Scripts/controller/woodCutterController.cs<>res://Assets/Woodcutter_idle.png<>uid://cbd8x4v4k78q3::::res://Assets/animations/Woodcutter_attack1.png<>uid://dmve4lf78c42s::::res://Assets/animations/Woodcutter_attack2.png<>uid://cpovj5d2fv7hn::::res://Assets/animations/Woodcutter_attack3.png<>uid://briigr558tnkd::::res://Assets/animations/Woodcutter_death.png<>uid://dn25dw41riyix::::res://Assets/animations/Woodcutter_hurt.png<>uid://wfonx8ksrhyc::::res://Assets/animations/Woodcutter_walk.png
+::res://Scripts/::1717668528
+GlobalVars.cs::CSharpScript::-1::1717611434::0::1::::<>Node<>::
+::res://Scripts/controller/::1717662985
+BatController.cs::CSharpScript::-1::1717511287::0::1::::<>CharacterBody2D<>::
+GameController.cs::CSharpScript::-1::1717662180::0::1::::<><>::
+MinotaurController.cs::CSharpScript::-1::1717611444::0::1::::<>CharacterBody2D<>::
+ObstaclesController.cs::CSharpScript::-1::1717630888::0::1::::<><>::
+PlayerController.cs::CSharpScript::-1::1717630799::0::1::::<>CharacterBody2D<>::
+SlimeController.cs::CSharpScript::-1::1717611374::0::1::::<>CharacterBody2D<>::
+woodCutterController.cs::CSharpScript::-1::1717662985::0::1::::<>CharacterBody2D<>::
+::res://Scripts/model/::1717666546
+Enemy.cs::CSharpScript::-1::1717662221::0::1::::<>Node<>::
+Game.cs::CSharpScript::-1::1717665020::0::1::::<>Node2D<>::
+Obstacles.cs::CSharpScript::-1::1717512308::0::1::::<>Node2D<>::
+PlayerModel.cs::CSharpScript::-1::1717666546::0::1::::<>Node2D<>::
+::res://Scripts/view/::1717630859
+EnemyView.cs::CSharpScript::-1::1717279765::0::1::::<>Node<>::
+GameView.cs::CSharpScript::-1::1717630859::0::1::::<>Control<>::
+ObstaclesView.cs::CSharpScript::-1::1716904955::0::1::::<>Node2D<>::
+PlayerView.cs::CSharpScript::-1::1717630545::0::1::::<>CanvasLayer<>::
